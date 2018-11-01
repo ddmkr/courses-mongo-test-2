@@ -1,5 +1,5 @@
 title: mongo-test-2
 description: Course description goes here.
 programming_language: r
-from: "r-base-prod:v1.0.2"
+from: "r-mongo-prod:v0.0.1"
 #from: "tidyverse-base-prod:v1.0.2"
